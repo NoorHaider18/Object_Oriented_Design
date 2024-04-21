@@ -1,5 +1,5 @@
 /**
- * A java programme to demonstrate Single Responsibiliy Principle
+ * A java programme to demonstrate Liskov Substitution Principle
  * @author Noor Haider Khan; Student ID: 220218
  * @version 1.0
  * @since 21-04-2024 
